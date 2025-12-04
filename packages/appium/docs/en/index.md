@@ -1,3 +1,5 @@
+npm install -g appium
+pip install Appium-Python-Client
 ---
 hide:
   - navigation
